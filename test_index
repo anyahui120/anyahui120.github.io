@@ -1,0 +1,600 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta content="IE=7.0000" http-equiv="X-UA-Compatible">
+<title>Xiangnan He's Homepage</title>
+<meta name="description" content="Xiangnan He, Research Fellow in National University of Singapore. Recommender systems, information retrieval, applied machine learning. Former intern at Google, Microsoft and Accenture.">
+<meta name="keywords" content="xiangnan he, nus, National University of Singapore, web search, information retrieval, text mining, machine learning, recommender systems, internet advertising">
+
+<link rel="stylesheet" type="text/css" href="./files/xiangnan.css">
+<!-- <script type="text/javascript" async="" src="./files/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39532305-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> -->
+
+<style>@-moz-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-webkit-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@-o-keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}@keyframes nodeInserted{from{opacity:0.99;}to{opacity:1;}}embed,object{animation-duration:.001s;-ms-animation-duration:.001s;-moz-animation-duration:.001s;-webkit-animation-duration:.001s;-o-animation-duration:.001s;animation-name:nodeInserted;-ms-animation-name:nodeInserted;-moz-animation-name:nodeInserted;-webkit-animation-name:nodeInserted;-o-animation-name:nodeInserted;}</style></head>
+
+
+<body>
+
+<div id="content">
+
+<div id="news">
+<h2>News</h2><br>
+<font size="3px">
+
+<b>27 June 2017</b><br>
+<span class="easylink">
+ I am invited to be a program committee member in <a href="https://aaai.org/Conferences/AAAI/aaai18.php" target="_blank">AAAI 2018</a> </b>
+</span><br><br>
+	
+<b>25 April 2017</b><br>
+<span class="easylink">
+Three full papers advised by me are accepted by <a href="http://ijcai-17.org/">IJCAI 2017</a>! One is <b>attentional factorization machines</b> for learning the weight of feature interactions, one is about <b>aspect extraction</b> for monitoring brands, and the other is about <b>implicit discourse relation recognition</b>. 
+</span><br><br>
+
+<b>10 April 2017</b><br>
+<span class="easylink">
+Four full papers are accepted by <a href="http://sigir.org/sigir2017/">SIGIR 2017</a>! One is my first-author work on <b>neural factorization machines</b>, and the other three are students' work advised by me on <b>cross-domain</b>, <b>multi-media</b> and <b>playlist</b> recommendation, respectively! </b>
+</span><br><br>
+
+<b>7 April 2017</b><br>
+<span class="easylink">
+I successful presented our two papers about implicit recommender systems at WWW 2017 Perth! 
+<!--Please find the slides here: <a href="./papers/www17-NCF.pptx" target="_blank">NCF.pptx</a> (Neural Collaborative Filtering) and <a href="./papers/www17-iCD-slides.pdf" target="_blank">iCD.pdf</a> (implicit Coordinate Descent) </b> -->
+</span><br><br>
+
+<b>27 March 2017</b><br>
+<span class="easylink">
+I am invited to be a program committee member (both full and short paper) in <a href="http://www.cikm2017.org" target="_blank">CIKM 2017</a> </b>
+</span><br><br>
+
+<b>11 Feb. 2017</b><br>
+<span class="easylink">
+I am invited to be a program committee member (full paper) in <a href="http://www.acmmm.org/2017/" target="_blank">MM 2017</a> </b>
+</span><br><br>
+
+<b>21 Dec. 2016</b><br>
+<span class="easylink">
+Two full papers are accepted by <a href="http://www.www2017.com.au/">WWW 2017</a>. One is about <b>Neural Collaborative Filtering</b> and the other very solid work with Steffen Rendle is about <b>Factorization Machines for Implicit Feedback</b>
+</span><br><br>
+
+<b>15 Nov. 2016</b><br>
+<span class="easylink">
+One paper about <b>App Recommendation</b> is accepted by Transactions on Information Systems (<a href="http://tois.acm.org/">TOIS</a>) as a full paper. 
+</span><br><br>
+
+<b>11 Nov. 2016</b><br>
+<span class="easylink">
+I am invited to be a program committee member (full paper) in <a href="http://sigir.org/sigir2017/" target="_blank">SIGIR 2017</a>.
+</span><br><br>
+
+<b>5 Nov. 2016</b><br>
+<span class="easylink">
+I am invited to be a program committee member (short paper) in <a href="http://sigir.org/sigir2017/" target="_blank">SIGIR 2017</a>.
+</span><br><br>
+
+<b>14 Sep. 2016</b><br>
+<span class="easylink">
+Our work <b>BiRank: Towards Ranking on Bipartite Graphs</b> is accepted by Transactions on Knowledge and Data Engineering (<a href="https://www.computer.org/web/tkde", target="_blank">TKDE</a>) as a full paper.</font></b>
+</span><br><br>
+
+<b>20 July 2016</b><br>
+<span class="easylink">
+I succefully present our two papers in SIGIR 2016. The Discrete CF paper achieves the <b><font color="red">Best Paper Award Honorable Mention!</font></b>
+</span><br><br>
+
+<b>05 July 2016</b><br>
+<span class="easylink">
+I am invited to be the reviewer of World Wide Web Journal (<a href="http://link.springer.com/journal/11280", target="_blank">WWWJ</a>).</b>. 
+</span><br><br>
+
+<b>22 June 2016</b><br>
+<span class="easylink">
+Two papers have been accepted to <a href="http://www.acmmm.org/2016/", target="_blank"> ACMMM 2016</a> as full research paper! One is about <b>contextual image-tweet recommendation</b> and the other is about <b>venue prediction from micr-videos</b>. 
+</span><br><br>
+
+<b>30 March 2016</b><br>
+<span class="easylink">
+Two papers have been accepted to <a href="http://sigir.org/sigir2016/", target="_blank"> SIGIR 2016</a> as full research paper! One is about <b>fast matrix factorization for implicit feedback</b> and the other is about <b>discrete hashing for collaborative filtering</b>. 
+</span><br><br>
+
+<b>24 March 2016</b><br>
+<span class="easylink">
+I have successfully defended my thesis and got the PhD degree! My thesis title is "Exploiting User Comments for Web Applications".
+</span><br><br>
+
+<b>7 March 2016</b><br>
+<span class="easylink">
+I am invited to be a program committee member in <a href="http://www.emnlp2016.net/" target="_blank">EMNLP 2016</a>.
+</span><br><br>
+
+<b>23 Jan. 2016</b><br>
+<span class="easylink">
+I am invited to be a program committee member (short paper) in <a href="http://sigir.org/sigir2016/" target="_blank">SIGIR 2016</a>.
+</span><br><br>
+
+<b>2 Dec. 2015</b><br>
+<span class="easylink">
+I am invited to be the reviewer of Journal of Information Science.
+</span><br><br>
+
+<b>22 Oct. 2015</b><br>
+<span class="easylink">I presented my work about review-aware recommendation at CIKM'15 Melbourne, check the slides <a href="./papers/cikm15-trirank-slides.pdf" target="_blank">here</a>!</span><br><br>
+
+<b>25 Sep. 2015</b><br>
+<span class="easylink">My summer internship in Google research successfully finishes. Many thanks to my hosts <a href="https://www.cs.umd.edu/~bhargav/" target="_blank">Bhargav Kanagal</a> and <a href="https://scholar.google.com.sg/citations?user=yR-ugIoAAAAJ&hl=en" target="_blank">Steffen Rendle</a>!</span><br><br>
+
+<b>16 Aug. 2015</b><br>
+<span class="easylink">I am invited to be a program committee member in <a href="http://www2016.ca/" target="_blank">WWW 2016 </a>.</span><br><br>
+</font>
+
+<b>4 Jul. 2015</b><br>
+<span class="easylink">Our full paper "Review-aware Explainable Recommendation by Modeling Aspects" is accepted by CIKM 2015.</span><br><br>
+</font>
+
+<b>22 Jun. 2015</b><br>
+<span class="easylink">I start my summer internship in Google MTV office. Enjoy the summer at the Bay area!</span><br><br>
+</font>
+
+<b>24 Apr. 2015</b><br>
+<span class="easylink">My thesis proposal "Mining Web 2.0 User Comments" passes. I am expected to graduate (submit thesis) on Dec. 2015. </span><br><br>
+</font>
+
+<b>3 Mar. 2015</b><br>
+<span class="easylink">I am invited to be the reviewer of Journal of Web Engineering. </span><br><br>
+</font>
+
+</div>
+
+<div id="left">
+<table style="background-color:white;">
+<tbody><tr nosave="">
+<td valign="CENTER">
+<img src="./files/xiangnan_profile_2015.png" height="300" align="left">
+</td>
+
+<td valign="CENTER" width="2%">
+</td>
+
+<td valign="CENTER" halign="LEFT">
+<font size="+0">
+<b><font size="+2">Xiangnan HE&nbsp;</font></b>
+<p style="margin-left:0px;">
+<img src="./files/name.png", height="60">
+</p><p style="margin-left:0px;">
+<b>Research Fellow</b>
+</p><p style="margin-left:0px;">
+<a href="http://lms.comp.nus.edu.sg/", target="_blank">Lab for Media Search</a><br/>
+<a href="https://www.comp.nus.edu.sg/", target="_blank">School of Computing</a><br/>
+<a href="http://www.nus.edu.sg", target="_blank">National University of Singapore</a><br/>
+</p><p style="margin-left:0px;">
+Computing 1, Computing Drive, Singapore 117417<br>
+</p><p style="margin-left:0px;">
+Email:  xiangnanhe at gmail dot com</a><br>
+</p></font><p><font size="+0">
+</font>
+</p></td>
+</tr>
+</tbody></table>
+
+<div style="margin-top:20px;">
+I am a research fellow with <a href="http://www.comp.nus.edu.sg/~chuats/", target="_blank">Prof. Chua Tat-Seng</a> since 2016. Prior to that, I did my PhD with <a href="http://www.comp.nus.edu.sg/~kanmy/" target="_blank">Prof. Kan Min-Yen</a> from 2011 to 2015. Before that, I obtained my bachelor degree in East China Normal University, advised by <a href="http://faculty.ecnu.edu.cn/s/616/t/6635/main.jspy" target="_blank">Prof. Jin Cheqing</a> and <a href="http://www.ecnu.edu.cn/single/main.htm?page=zay" target="_blank">Prof. Zhou Aoying</a>. In addition, I was an intern at Google Research (summer 2015), advised by <a href="https://www.cs.umd.edu/~bhargav/" target="_blank">Bhargav Kanagal</a> and <a href="https://scholar.google.com.sg/citations?user=yR-ugIoAAAAJ&hl=en" target="_blank">Steffen Rendle</a>. Here is my <a href="./files/CV_Xiangnan.pdf" target="_blank">CV</a>. <br><br>
+
+My research interests span recommender system, information retrieval, natural language processing and multi-media. My work on recommender system has received the Best Paper Award Honorable Mention of ACM SIGIR 2016. Moreover, I have served as the PC member for top-tier conferences including SIGIR, WWW, MM, CIKM, AAAI, and EMNLP, and the invited reviewer for prestigious journals including TKDE, TOIS, TMM, WWWJ and TIIS.
+</div>
+
+<h2 style="CLEAR: both;">Invited Talks</h2>
+<table><tbody><tr><td>
+  <span class="title">Neural Factorization Machines for Sparse Predictive Analytics </span> &nbsp;&nbsp; 
+  <br> - LinkSure Company, June 22, 2017 (invited by Dr. Chang Kuiyu) 
+  <br> - SIGIR 2017, Tokyo, Japan, August 5, 2017
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+	<span class="title">Neural Collaborative Filtering </span> &nbsp;&nbsp; <br> - Shandong University, May 20, 2017 (invited by Prof. Nie Liqiang) <br> - WWW 2017, Perth, Australia, April 5, 2017
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+	<span class="title">Recent Advance on Recommendation Methods for Implicit Feedback </span> &nbsp;&nbsp; <br> - Tsinghua University, April 19, 2017 (invited by Prof. Cui Peng) <br> - Renmin University, April 18, 2017 (invited by Prof. Dou Zhicheng) <br> - Chinese Academy of Sciences, April 12, 2017 (invited by Prof. Guo Jiafeng)
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+	<span class="title">A Generic Coordinate Descent Framework for Learning from Implicit Feedback 
+ </span> &nbsp;&nbsp; <br> - WWW 2017, Perth, Australia, April 7, 2017
+</td></tr></tbody></table>
+
+<table><tbody><tr><td>
+	<span class="title">Collaborative Filtering for Implicit Feedback </span> &nbsp;&nbsp; <br> - Tsinghua University, December 21, 2016 (invited by Prof. Zhang Min) <br> - Hefei University of Technology, December 16, 2016 (invited by Prof. Hong Richang) <br> - Zhejiang University, December 15, 2016 (invited by Prof. Xiao Jun)
+</td></tr></tbody></table>
+
+
+<div id="papers">
+<h2>Publications</h2>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/available-under-email-request.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Neural Factorization Machines for Sparse Predictive Analytics</span> 
+      <br><b>Xiangnan He</b> & Tat-Seng Chua
+    <br>SIGIR 2017 (Accept rate: 22%) &nbsp;&nbsp; 
+    <!--<a href="https://github.com/hexiangnan/neural_factorization_machine" target="_blank">Codes</a>  &nbsp;&nbsp; -->
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir17-SilkRoad.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Item Silk Road: Recommending Items from Information Domains to Social Users</span> 
+      <br>Xiang Wang, <b>Xiangnan He</b>*, Liqiang Nie & Tat-Seng Chua 
+    <br>SIGIR 2017 (Accept rate: 22%) &nbsp;&nbsp;  *Corresponding author
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir17-AttentiveCF.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Attentive Collaborative Filtering: Multimedia Recommendation with Feature- and Item-level Attention</span>
+      <br>Jingyuan Chen, Hanwang Zhang, <b>Xiangnan He</b>*, Liqiang Nie, Wei Liu & Tat-Seng Chua
+    <br>SIGIR 2017 (Accept rate: 22%) &nbsp;&nbsp;  *Corresponding author
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir17-EmbeddingMF.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Embedding Factorization Models for Jointly Recommending User Generated Lists and Their Contained Items</span> 
+      <br>Da Cao, Liqiang Nie, <b>Xiangnan He</b>, Xiaochi Wei, Shuizhi Zhu, Shunxiang Wu & Tat-Seng Chua
+    <br>SIGIR 2017 (Accept rate: 22%) &nbsp;&nbsp; <a href="https://listrec.wixsite.com/efms" target="_blank">Codes</a>
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/attributed-social-network-embedding.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Attributed Social Network Embedding</span> 
+      <br>Lizi Liao, <b>Xiangnan He*</b>, Hanwang Zhang, & Tat-Seng Chua
+    <br>IEEE Transactions on Knowledge and Data Engineering (under submission)  &nbsp;&nbsp; <a href="https://github.com/lizi-git/Social-Network-Embedding" target="_blank">Codes</a> &nbsp;&nbsp; *Corresponding author
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/available-under-email-request.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks</span> 
+      <br>Jun Xiao, Hao Ye, <b>Xiangnan He*</b>, Hanwang Zhang, Fei Wu & Tat-Seng Chua
+    <br>IJCAI 2017 (Accept rate: 26%) &nbsp;&nbsp; 
+    <!--<a href="https://github.com/hexiangnan/attentional_factorization_machine" target="_blank">Codes</a> --> &nbsp;&nbsp; *Corresponding author
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/ijcai17-aspect.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Representativeness-aware Aspect Analysis for Brand Monitoring in Social Media</span> 
+      <br>Lizi Liao, <b>Xiangnan He*</b>, Zhaochun Ren, Liqiang Nie, Huan Liu & Tat-Seng Chua
+    <br>IJCAI 2017 (Accept rate: 26%) &nbsp;&nbsp; *Corresponding author
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/ijcai17-swim.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">SWIM: A Simple Word Interaction Model for Implicit Discourse Relation Recognition</span> 
+      <br>Wenqiang Lei, Xuancong Wang, Meichun Liu, Ilija Ilievski, <b>Xiangnan He</b>, & Min-Yen Kan
+    <br>IJCAI 2017 (Accept rate: 26%) &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/ncf.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Neural Collaborative Filtering</span> 
+      <br><b>Xiangnan He</b>, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu & Tat-Seng Chua
+    <br>WWW 2017 (Accept rate: 17%) &nbsp;&nbsp; <a href="https://github.com/hexiangnan/neural_collaborative_filtering" target="_blank">Codes</a>  &nbsp;&nbsp; <a href="./papers/www17-NCF.pptx" target="_blank">Slides</a>
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/www17_iCD.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">A Generic Coordinate Descent Framework for Learning from Implicit Feedback</span> 
+      <br>Immanuel Bayer*, <b>Xiangnan He*</b>, Bhargav Kanagal & Steffen Rendle
+    <br>WWW 2017 (Accept rate: 17%) &nbsp;&nbsp; 
+    <!--<a href="./papers/www17-iCD-slides.pdf" target="_blank">Slides</a> &nbsp;&nbsp; --> *Joint work at Google.
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/tkde16-birank-cr.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">BiRank: Towards Ranking on Bipartite Graphs</span> 
+      <br><b>Xiangnan He</b>, Ming Gao, Min-Yen Kan & Dingxian Wang
+    <br>IEEE Transactions on Knowledge and Data Engineering (TKDE 2017) &nbsp;&nbsp;
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/tois-app-recom-preprint.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Cross-Platform App Recommendation by Jointly Modeling Ratings and Texts</span> 
+      <br>Da Cao, <b>Xiangnan He</b>, Liqiang Nie, Xiaochi Wei, Xia Hu, Shunxiang Wu & Tat-Seng Chua
+    <br>ACM Transactions on Information Systems (TOIS 2017) &nbsp;&nbsp; <a href="http://apprec.wixsite.com/star" target="_blank">Codes</a>
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/version-app-recsys.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Version-sensitive mobile App recommendation</span> 
+      <br>Da Cao, Liqiang Nie, <b>Xiangnan He</b>, Xiaochi Wei, Jialie Shen, Shunxiang Wu & Tat-Seng Chua
+    <br>Information Science (2017) &nbsp;&nbsp; <a href="http://apprec.wixsite.com/version" target="_blank">Codes</a>
+  </td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir16-eals-cm.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Fast Matrix Factorization for Online Recommendation with Implicit Feedback</span> 
+      <br><b>Xiangnan He</b>, Hanwang Zhang, Min-Yen Kan & Tat-Seng Chua
+	  <br>SIGIR 2016.&nbsp;&nbsp; (Accept rate: 18%) &nbsp;&nbsp; <a href="https://github.com/hexiangnan/sigir16-eals" target="_blank">Codes</a> &nbsp;&nbsp; <a href="./papers/sigir16-fastmf-slides.pdf">Slides</a> 
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir16-dcf-cm.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Discrete Collaborative Filtering</span> 
+      <br>Hanwang Zhang, Fumin Shen, Wei Liu, <b>Xiangnan He</b>, Huanbo Luan & Chua Tat-Seng
+	  <br>SIGIR 2016.&nbsp;&nbsp; (Accept rate: 18%) &nbsp;&nbsp; <a href="https://github.com/hanwangzhang/Discrete-Collaborative-Filtering" target="_blank">Codes</a> &nbsp;&nbsp; <a href="./papers/sigir16-dcf-slides.pdf">Slides</a> <b><font color="red">(Best Paper Award Honorable Mention)</font></b>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/mm16-tweets-recsys.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Context-aware Image Tweets Modelling and Recommendation</span> 
+      <br>Tao Chen, <b>Xiangnan He</b> & Min-Yen Kan
+	  <br>MM 2016.&nbsp;&nbsp; (Accept rate: 20%) &nbsp;&nbsp; <a href="https://github.com/kite1988/famf" target="_blank">Codes</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/mm16-microvideos.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Shorter-is-Better: Venue Category Estimation from Micro-Video</span> 
+      <br>Jianglong Zhang, Liqiang Nie, Xiang Wang, <b>Xiangnan He</b>, Xianglin Huang & Tat-Seng Chua
+	  <br>MM 2016.&nbsp;&nbsp; (Accept rate: 20%) &nbsp;&nbsp; <a href="http://acmmm16.wixsite.com/mm16" target="_blank">Codes</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/cikm15-trirank-cr.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">TriRank: Review-aware Explainable Recommendation by Modeling Aspects</span> 
+      <br><b>Xiangnan He</b>, Tao Chen, Min-Yen Kan & Xiao Chen
+	  <br>CIKM 2015.&nbsp;&nbsp; (Accept rate: 18%) &nbsp;&nbsp; <a href="./papers/cikm15-trirank-slides.pdf" target="_blank">Slides</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="http://wing.comp.nus.edu.sg/publications/2015/AAAI15_Tao.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Relating an Image Tweet’s Text and Images</span> 
+      <br>Tao Chen, Hany M. SalahEldeen, <b>Xiangnan He</b>, Min-Yen Kan & Dongyuan Lu
+	  <br>AAAI 2015.&nbsp;&nbsp; (Accept rate: 26.7%) &nbsp;&nbsp; <a href="https://github.com/kite1988/velda" target="_blank">Codes</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+
+
+
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/sigir2014-he.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a> &nbsp;</a></td>
+    <td><span class="title">Predicting the Popularity of Web 2.0 Items Based on User Comments</span> 
+      <br><b>Xiangnan He</b>, Ming Gao, Min-Yen Kan, Yiqun Liu & Kazunari Sugiyama
+	  <br>SIGIR 2014.&nbsp;&nbsp; (Accept rate: 21%)&nbsp;&nbsp; <a href="./papers/sigir2014-he-slides.pdf" target="_blank">Slides</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/www2014-he.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Comment-based Multi-View Clustering of Web 2.0 Items</span> 
+      <br><b>Xiangnan He</b>, Min-Yen Kan, Peichu Xie & Xiao Chen
+	  <br>WWW 2014.&nbsp;&nbsp; (Accept rate: 12.9%) <a href="./papers/www2014-he-supplement.pdf" target="_blank">Supplement</a>&nbsp; <a href="./papers/www2014-he-slides.pdf" target="_blank">Slides</a>&nbsp; <a href="https://github.com/hexiangnan/CoNMF" target="_blank">Codes</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="http://wing.comp.nus.edu.sg/~junping/docs/emnlp2013_defminer.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Mining Scientific Terms and their Definitions: A Study of the ACL Anthology</span> 
+      <br>Yiping Jin, Min-Yen Kan, Jun-Ping Ng & <b>Xiangnan He</b>
+	  <br>EMNLP 2013.&nbsp;&nbsp; (Accept rate: 27%) &nbsp;
+<a href="http://www.comp.nus.edu.sg/~kanmy/talks/poster_emnlp2013.pdf" target="_blank">
+ Poster</a>&nbsp;
+<a href="http://wing.comp.nus.edu.sg/downloads/term_definition_mining/" target="_blank">
+ Dataset</a>
+	</td>
+  </tr>
+ </tbody>
+</table>
+<table>
+  <tbody>
+  <tr>
+    <td class="left"><a href="./papers/recording_how_provenance.pdf" target="_blank"><img src="./files/pdf.gif"><br>pdf</a></td>
+    <td><span class="title">Recording How-Provenance on Probabilistic Databases</span> 
+      <br>Ming Gao, <b>Xiangnan He</b>, Cheqing Jin, Xiaoling Wang & Aoying Zhou
+	  <br>APWEB 2010. 
+	</td>
+  </tr>
+ </tbody>
+</table>
+</div>
+
+<h2 style="CLEAR: both;">Professional Services</h2>
+<table><tbody><tr><td>
+  Co-chair of  <span class="title">CIKM 2017 Workshop on <a href="https://sites.google.com/site/smasc2017/home">Social Media Analytics for Smart Cities</a> </span> <br>
+	Program Committee Member of <span class="title">AAAI (2018) </span> <br>  
+  Program Committee Member of <span class="title">ACM SIGIR (2017, 2016) </span> <br>
+  Program Committee Member of <span class="title">ACM CIKM (2017) </span> <br>
+  Program Committee Member of <span class="title">ACM MM (2017) </span> <br>  
+  Program Committee Member of <span class="title">EMNLP (2016) </span> <br>
+  Program Committee Member of <span class="title">WWW (2016) </span> <br>
+  Invited Reviewer for <span class="title">IEEE Transactions on Knowledge and Data Engineering (TKDE) </span> <br>
+	Invited Reviewer for <span class="title">ACM Transactions on Information Systems (TOIS) </span> <br>
+	Invited Reviewer for <span class="title">IEEE Transactions on Multimedia (TMM) </span> <br>
+  Invited Reviewer for <span class="title">KSII Transactions on Internet and Information Systems (TIIS) </span> <br>
+  Invited Reviewer for <span class="title">World Wide Web Journal (WWWJ) </span> <br>
+  Invited Reviewer for <span class="title">Journal of Information Science </span> <br>
+  External Reviewer of <span class="title">WSDM 2017, SIGIR 2015, NAACL 2015 </span> <br>
+  External Reviewer of <span class="title">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). </span> <br>
+  External Reviewer of <span class="title">Information Retrieval Journal (IRJ). </span> <br>
+</td></tr></tbody></table>
+
+
+<h2 style="CLEAR: both">Internships</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="https://research.google.com/pubs/InformationRetrievalandtheWeb.html" target="_blank">Google Research</a></span> <br>
+	  Research Intern, Strategic Technology Group, supervised by <a href="https://www.cs.umd.edu/~bhargav/" target="_blank">Bhargav Kanagal</a> and <a href="https://scholar.google.com.sg/citations?user=yR-ugIoAAAAJ&hl=en" target="_blank">Steffen Rendle</a>.<br>
+	  Mountain View, United States &nbsp;&nbsp; Jun. 2015 - Sep. 2015</td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.google.com/" target="_blank">Google Inc.</a></span> <br>
+	  Software Engineering Intern, Local Search Group, supervised by Thomas Sidoti and Sheng Zhang.<br>
+	  New York City, United States &nbsp;&nbsp; Jun. 2014 - Sep. 2014</td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.microsoft.com.cn/" target="_blank">Microsoft Inc.</a></span> <br>
+	  Software Engineering Intern, Operating System Group. <br>
+	  Shanghai, China &nbsp;&nbsp; Sep. 2010 - Dec. 2011</td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="https://www.accenture.com" target="_blank">Accenture Inc.</a></span> <br>
+	  IT Consult Intern, Media Markt project. <br>
+	  Shanghai, China &nbsp;&nbsp; Jan. 2011 - Apr. 2011</td></tr></tbody></table>
+
+<!-- <h2 style="CLEAR: both;">Datasets</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://wing.comp.nus.edu.sg/downloads/multiview_clustering/" target="_blank">Multi-View Clustering with User Comments</a></span> <br>
+	  The first public user comments dataset for multi-view clustering. The groundtruth labels are provided as the categories of items. The textual comments have been pre-processed, include stemming, removing stopwords .etc.<br>
+	  <a href="http://dl.acm.org/citation.cfm?id=2567975">WWW 2014 paper</a>.</td></tr></tbody></table> -->
+
+
+<h2 style="CLEAR: both;">Teaching Assistants</h2>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm" target="_blank">CS5228 Knowledge Discovery and Data Mining</a></span> <br>
+	2014/2015 Semester 1 
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.comp.nus.edu.sg/~kanmy/courses/3245_2014/" target="_blank">CS3245 Information Retrieval</a></span> <br>
+	2013/2014 Semester 2 
+     </td></tr></tbody></table>
+<table>
+  <tbody>
+  <tr>
+    <td><span class="title"><a href="http://www.comp.nus.edu.sg/~xiangnan/cs1020_tutorial2.htm" target="_blank">CS3245 CS1020 Data Structure and Algorithms</a></span> <br>
+	2013/2014 Semester 1
+     </td></tr></tbody></table>
+
+<h2 style="CLEAR: both;">Useful Links</h2>
+<table><tbody>
+  <tr><td> <span class="title"><a href="./SoC Conference Ranking.htm" target="_blank">NUS SoC Conference Rankings</a></span> </td></tr>
+  <tr><td> <span class="title"><a href="./SoC Journal Ranking.htm" target="_blank">NUS SoC Journal Ranking</a></span> </td></tr>  
+  <tr><td> <span class="title"><a href="http://www.comp.nus.edu.sg/undergraduates/useful_course_schedule.html" target="_blank">NUS SoC Courses</a></span> </td></tr>    
+  <tr><td> <span class="title"><a href="https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA" target="_blank">Machine Learning Reading List</a></span> </td></tr>    
+  <tr><td> <span class="title"><a href="https://github.com/robertsdionne/neural-network-papers" target="_blank">Deep Learning Reading List</a></span> </td></tr>    
+</tbody></table>
+
+</br>
+<div id="clustrmaps-widget"></div> <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=GzjT3MwPtKyZQcHkXZ6sJt4DvyGvkIREE1uiQTcsOPk"></script>
+
+<p>Last update: June 10, 2017. Webpage template borrows from <a href="http://www0.cs.ucl.ac.uk/staff/w.zhang/">Weinan Zhang</a>.</p>
+
+</div>
+</div>
+
+
+</body></html>
